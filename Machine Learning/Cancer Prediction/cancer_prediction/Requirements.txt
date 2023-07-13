@@ -1,0 +1,14 @@
+# Requirements for Google Cloud Run
+Flask==2.0.1 # used for data types
+gunicorn==20.1.0 # used to "be" a service
+
+# Requirements for the service body
+fastbook==0.0.18 # the only way we could figure out how to get fastai and most of its dependencies
+google-cloud-storage==1.42.1 # use this package to fetch the model from Google Cloud Storage
+
+# Hidden and very-very-very specific requirement of fastbook that almost caused me to have an ulcer
+spacy==2.2.4
+
+flask
+pandas
+scikit-learn
