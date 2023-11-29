@@ -2,4 +2,3 @@
 
 * Polynomial Regression
 * Multivariate Regression
-* 
