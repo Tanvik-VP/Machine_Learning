@@ -80,20 +80,20 @@ Training involves finding the optimal values for \( b_0, b_1, \ldots, b_n \) to 
 Common metrics for evaluating Linear Regression models include:
 
 #### Mean Squared Error (MSE)
-
-\[ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \]
+![Mean Squared Error (MSE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuboptimal.wiki%2Fexplanation%2Fmse%2F&psig=AOvVaw0_3WmWlwINLh4KFFR77UvE&ust=1701306722424000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKivlcmD6IIDFQAAAAAdAAAAABAE)
 
 #### Root Mean Squared Error (RMSE)
 
-\[ RMSE = \sqrt{MSE} \]
+![Root Mean Squared Error (RMSE)](https://media.geeksforgeeks.org/wp-content/uploads/20200622171741/RMSE1.jpg)
 
 #### Mean Absolute Error (MAE)
 
-\[ MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| \]
+![Mean Absolute Error (MAE)](https://editor.analyticsvidhya.com/uploads/42439Screenshot%202021-10-26%20at%209.34.08%20PM.png)
+
 
 #### \( R^2 \) (coefficient of determination)
 
-\[ R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2} \]
+![(coefficient of determination)](https://www.wallstreetmojo.com/wp-content/uploads/2019/05/Coefficient-of-Determination-Formula.jpg)
 
 ### Loss Function
 
