@@ -1,4 +1,4 @@
-# Linear Regression in Machine Learning
+# Linear Regression in Machine Learning.
 
 Linear Regression is a fundamental supervised learning algorithm used for predicting a continuous outcome variable (also called the dependent variable) based on one or more predictor variables (independent variables). It assumes a linear relationship between the input features and the target variable.
 
